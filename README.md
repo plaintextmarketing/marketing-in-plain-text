@@ -31,5 +31,4 @@ My focus: making complex technology stories simple enough to scale, and powerful
 ---
 
 ## 🌐 Find Me
-- [LinkedIn](https://www.linkedin.com/in/heatherpeyton3/)  
-- [Website](https://plaintextmarketing.github.io)    
+- [LinkedIn](https://www.linkedin.com/in/heatherpeyton3/)    
