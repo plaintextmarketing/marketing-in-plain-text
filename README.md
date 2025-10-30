@@ -11,7 +11,6 @@ This repo is a collection of work samples, frameworks, and projects that show ho
 - **Go-to-Market Assets:** Blogs, collateral, positioning briefs, launch outlines, and messaging frameworks.  
 - **Product Marketing Examples:** Slides, enablement docs, and campaigns.
 - **Dev-Centric Content:** Pieces that simplify complex topics such as CI/CD pipelines, container security, and policy as code.  
-- **Portfolio Decks:** Highlight reels and visual summaries of key projects (Docker, Worksoft, CA, and more).
 
 ---
 
