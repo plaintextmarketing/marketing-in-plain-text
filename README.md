@@ -4,7 +4,6 @@ A collection of GTM, positioning, and storytelling work from a self-proclaimed m
 
 Welcome!  
 This repo is a collection of work samples, frameworks, and projects that show how I approach product marketing for technical audiences.  
-I focus on building clarity across Dev, Sec, and Ops — connecting technical innovation to real business outcomes.
 
 ---
 
